@@ -1,1 +1,1 @@
-lollolo
+![workflow](https://github.com/AungThiha1804/sem/actions/workflows/main.yml/badge.svg)
